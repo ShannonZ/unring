@@ -1,5 +1,6 @@
 unring
 ------
+
 Tool for removal of the Gibbs ringing artefact.
 
 Based on the algorithm in the publication (please cite):
